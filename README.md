@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bongani001](https://github.com/Bongani001)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web development and react**
 
 - 📫 How to reach me **bbongs421@gmail.com**
 
